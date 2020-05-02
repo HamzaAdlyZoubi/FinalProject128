@@ -1,19 +1,20 @@
 {"List":[{
-    "country":"Boston & New York USA",
-    
+    "name":"John",
+    "age":31,
+    "pets":[
+        { "animal":"dog", "name":"Fido" },
+        { "animal":"cat", "name":"Felix" },
+        { "animal":"hamster", "name":"Lightning" }
+    ]
 }
 ,
-        {"country":"Saudi Arabia",
-    
+{"name":"ppp",
+    "age":31,
+    "pets":[
+        { "animal":"fish", "name":"goldie" },
+        { "animal":"cat", "name":"Fenolix" }
+        ]
 }
-,
-         {"country":"Syria",
-    
-}
-,
-         {"country":"Oman",
-    
-}    
 ]
 }
 
