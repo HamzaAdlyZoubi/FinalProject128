@@ -1,19 +1,16 @@
 {"List":[{
-    "name":"Mark Wong",
-    "age":69,
-    "pets":[
-        { "animal":"dog", "name":"Yasser" },
-        { "animal":"cat", "name":"Arjun" },
-        { "animal":"hamster", "name":"Lightning" }
-    ]
+    "country":"Boston & New York, USA",
+    
 }
 ,
-{"name":"ppp",
-    "age":31,
-    "pets":[
-        { "animal":"fish", "name":"goldie" },
-        { "animal":"cat", "name":"Fenolix" }
-        ]
+        {"country":"Saudi Arabia",
+    
 }
+         {"country":"Syria",
+    
+}
+         {"country":"Oman",
+    
+}    
 ]
 }
