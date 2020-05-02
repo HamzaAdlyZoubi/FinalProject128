@@ -1,11 +1,15 @@
-{"List":[{
-    "country":"Boston And New York USA",   
+{"List":[
+        {
+            "country":"Boston And New York USA"   
 },
-         {"country":"Saudi Arabia",    
+         {
+             "country":"Saudi Arabia"    
 },
-         {"country":"Oman",    
+         {
+             "country":"Oman"   
 },
-         {"country":"Syria",    
+         {
+             "country":"Syria"   
 }
 ]
 }
